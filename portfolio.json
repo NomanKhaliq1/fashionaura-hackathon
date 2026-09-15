@@ -1,0 +1,16 @@
+{
+  "title": "FashionAura Marketplace (hackathon copy)",
+  "description": "Duplicate of the FashionAura Marketplace repository, kept from the hackathon submission.",
+  "techTags": [
+    "Next.js",
+    "React",
+    "TailwindCSS"
+  ],
+  "source": "github",
+  "category": "Ecommerce",
+  "live_url": "",
+  "repo_name": "fashionaura-hackathon",
+  "repo_link": true,
+  "image": "",
+  "fetch": false
+}
